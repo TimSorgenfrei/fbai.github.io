@@ -1,0 +1,58 @@
+{
+    "frames": [
+        {
+            "name": "imageBird1",
+            "position": {
+                "x": "288",
+                "y": "344",
+                "height": "24",
+                "width": "34"
+            }
+        },
+        {
+            "name": "imageBird2",
+            "position": {
+                "x": "288",
+                "y": "368",
+                "height": "24",
+                "width": "34"
+            }
+        },
+        {
+            "name": "imageBird3",
+            "position": {
+                "x": "288",
+                "y": "392",
+                "height": "24",
+                "width": "34"
+            }
+        },
+        {
+            "name": "imageBackground",
+            "position": {
+                "x": "0",
+                "y": "0",
+                "height": "512",
+                "width": "276"
+            }
+        },
+        {
+            "name": "imageBase",
+            "position": {
+                "x": "0",
+                "y": "512",
+                "height": "112",
+                "width": "336"
+            }
+        },
+        {
+            "name": "imagePipe",
+            "position": {
+                "x": "288",
+                "y": "0",
+                "height": "344",
+                "width": "52"
+            }
+        }
+    ]
+}
